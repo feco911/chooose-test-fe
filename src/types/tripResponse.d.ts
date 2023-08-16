@@ -1,0 +1,1 @@
+export interface TripResponse extends Array<Trip> { }

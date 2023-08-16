@@ -1,0 +1,4 @@
+enum EmissionsUnitType{
+    Kilograms,
+    Tons
+}

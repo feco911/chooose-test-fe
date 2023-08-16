@@ -1,0 +1,7 @@
+.footerContentContainer{
+    justify-content: space-between;
+    align-items: center;
+    background: white;
+    border-radius: 10px 10px 0 0;
+    color: initial;
+}

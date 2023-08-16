@@ -1,0 +1,59 @@
+{
+  "trips": [
+    {
+      "name": "European Quest",
+      "numberOfCountries": 8,
+      "numberOfDays": 21,
+      "emissions": {
+        "value": 810,
+        "unit": "kg"
+      },
+      "rating": 4.7,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg"
+    },
+    {
+      "name": "Autumn Roadtrip",
+      "numberOfCountries": 1,
+      "numberOfDays": 14,
+      "emissions": {
+        "value": 3.56,
+        "unit": "t"
+      },
+      "rating": 4.7,
+      "imageUrl": "https://img.freepik.com/free-photo/top-view-camera-passport-frame_23-2148786131.jpg?w=1380&t=st=1692171056~exp=1692171656~hmac=a01ffce2d29b9e1935b1ce8f8191a04d685162fd3e17ac4e8b609e36639ef7f9"
+    },
+    {
+      "name": "Diving adventure in Egypt",
+      "numberOfCountries": 1,
+      "numberOfDays": 5,
+      "emissions": {
+        "value": 6.92,
+        "unit": "t"
+      },
+      "rating": 4.7,
+      "imageUrl":"https://img.freepik.com/premium-photo/outfit-traveler-black-background-travel-concept_146508-661.jpg?w=1380"
+    },
+    {
+      "name": "Quick diving adventure in Egypt",
+      "numberOfCountries": 1,
+      "numberOfDays": 1,
+      "emissions": {
+        "value": 6.92,
+        "unit": "t"
+      },
+      "rating": 1,
+      "imageUrl":"https://img.freepik.com/free-photo/top-view-camera-passport-frame_23-2148786131.jpg?w=1380&t=st=1692171056~exp=1692171656~hmac=a01ffce2d29b9e1935b1ce8f8191a04d685162fd3e17ac4e8b609e36639ef7f9"
+    },
+    {
+      "name": "Quick diving adventure in Egypt 2",
+      "numberOfCountries": 1,
+      "numberOfDays": 1,
+      "emissions": {
+        "value": 6.92,
+        "unit": "t"
+      },
+      "rating": 3,
+      "imageUrl":"https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg"
+    }
+  ]
+}
